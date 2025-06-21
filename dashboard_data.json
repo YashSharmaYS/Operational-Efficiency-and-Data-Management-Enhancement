@@ -1,0 +1,676 @@
+{
+  "contracts_by_year": [
+    {
+      "year": 2015,
+      "count": 262,
+      "total_value": 8938536.31,
+      "avg_value": 34116.55080152672
+    },
+    {
+      "year": 2016,
+      "count": 267,
+      "total_value": 9288717.27,
+      "avg_value": 34789.20325842696
+    },
+    {
+      "year": 2017,
+      "count": 187,
+      "total_value": 6123959.7,
+      "avg_value": 32748.44759358289
+    },
+    {
+      "year": 2018,
+      "count": 179,
+      "total_value": 6675428.79,
+      "avg_value": 37292.89826815642
+    },
+    {
+      "year": 2019,
+      "count": 239,
+      "total_value": 8982016.57,
+      "avg_value": 37581.65928870293
+    },
+    {
+      "year": 2020,
+      "count": 904,
+      "total_value": 35161851.17,
+      "avg_value": 38895.853064159295
+    },
+    {
+      "year": 2021,
+      "count": 2776,
+      "total_value": 97883412.23,
+      "avg_value": 35260.59518371758
+    },
+    {
+      "year": 2022,
+      "count": 6443,
+      "total_value": 238641874.39355403,
+      "avg_value": 37038.93751258017
+    },
+    {
+      "year": 2023,
+      "count": 5959,
+      "total_value": 223049618.58,
+      "avg_value": 37430.7129686189
+    },
+    {
+      "year": 2024,
+      "count": 5585,
+      "total_value": 202170436.51,
+      "avg_value": 36198.8248003581
+    },
+    {
+      "year": 2025,
+      "count": 6,
+      "total_value": 106676.72,
+      "avg_value": 17779.453333333335
+    }
+  ],
+  "top_vendors": [
+    {
+      "vendor_name": "STANTEC CONSULTING LTD.",
+      "total_value": 10346792.66,
+      "count": 283
+    },
+    {
+      "vendor_name": "THE BELL TELEPHONE COMPANY OF",
+      "total_value": 6306882.65,
+      "count": 172
+    },
+    {
+      "vendor_name": "TELUS COMMUNICATIONS COMPANY",
+      "total_value": 6252771.09,
+      "count": 276
+    },
+    {
+      "vendor_name": "LUMINA IT INC.",
+      "total_value": 5724724.53,
+      "count": 103
+    },
+    {
+      "vendor_name": "TEKSYSTEMS",
+      "total_value": 5374662.14,
+      "count": 82
+    }
+  ],
+  "vendor_concentration": [
+    {
+      "vendor_name": "STANTEC CONSULTING LTD.",
+      "total_value": 10346792.66,
+      "count": 283
+    },
+    {
+      "vendor_name": "THE BELL TELEPHONE COMPANY OF",
+      "total_value": 6306882.65,
+      "count": 172
+    },
+    {
+      "vendor_name": "TELUS COMMUNICATIONS COMPANY",
+      "total_value": 6252771.09,
+      "count": 276
+    },
+    {
+      "vendor_name": "LUMINA IT INC.",
+      "total_value": 5724724.53,
+      "count": 103
+    },
+    {
+      "vendor_name": "TEKSYSTEMS",
+      "total_value": 5374662.14,
+      "count": 82
+    },
+    {
+      "vendor_name": "Others",
+      "total_value": 803016695.173554,
+      "count": 21891
+    }
+  ],
+  "dept_distribution": [
+    {
+      "owner_org_en": "Unknown",
+      "total_value": 447410597.54355407
+    },
+    {
+      "owner_org_en": "Fisheries and Oceans Canada",
+      "total_value": 55376709.21
+    },
+    {
+      "owner_org_en": "Public Services and Procurement Canada",
+      "total_value": 37109479.31
+    },
+    {
+      "owner_org_en": "Others",
+      "total_value": 297125742.17999995
+    }
+  ],
+  "dept_trends": [
+    {
+      "year": 2015,
+      "Fisheries and Oceans Canada": 0.0,
+      "Public Services and Procurement Canada": 0.0,
+      "Unknown": 203.0
+    },
+    {
+      "year": 2016,
+      "Fisheries and Oceans Canada": 0.0,
+      "Public Services and Procurement Canada": 0.0,
+      "Unknown": 203.0
+    },
+    {
+      "year": 2017,
+      "Fisheries and Oceans Canada": 0.0,
+      "Public Services and Procurement Canada": 0.0,
+      "Unknown": 128.0
+    },
+    {
+      "year": 2018,
+      "Fisheries and Oceans Canada": 0.0,
+      "Public Services and Procurement Canada": 0.0,
+      "Unknown": 112.0
+    },
+    {
+      "year": 2019,
+      "Fisheries and Oceans Canada": 0.0,
+      "Public Services and Procurement Canada": 0.0,
+      "Unknown": 129.0
+    },
+    {
+      "year": 2020,
+      "Fisheries and Oceans Canada": 1.0,
+      "Public Services and Procurement Canada": 0.0,
+      "Unknown": 560.0
+    },
+    {
+      "year": 2021,
+      "Fisheries and Oceans Canada": 362.0,
+      "Public Services and Procurement Canada": 51.0,
+      "Unknown": 1605.0
+    },
+    {
+      "year": 2022,
+      "Fisheries and Oceans Canada": 541.0,
+      "Public Services and Procurement Canada": 363.0,
+      "Unknown": 3379.0
+    },
+    {
+      "year": 2023,
+      "Fisheries and Oceans Canada": 395.0,
+      "Public Services and Procurement Canada": 297.0,
+      "Unknown": 3182.0
+    },
+    {
+      "year": 2024,
+      "Fisheries and Oceans Canada": 473.0,
+      "Public Services and Procurement Canada": 282.0,
+      "Unknown": 2791.0
+    },
+    {
+      "year": 2025,
+      "Fisheries and Oceans Canada": 0.0,
+      "Public Services and Procurement Canada": 0.0,
+      "Unknown": 1.0
+    }
+  ],
+  "service_distribution": [
+    {
+      "service_category": "Consulting Services",
+      "total_value": 249460755.61
+    },
+    {
+      "service_category": "Communication Services",
+      "total_value": 200401471.07
+    },
+    {
+      "service_category": "Engineering",
+      "total_value": 166867487.56
+    },
+    {
+      "service_category": "Other",
+      "total_value": 59065065.18
+    },
+    {
+      "service_category": "Computer Services",
+      "total_value": 47981682.11
+    },
+    {
+      "service_category": "Others",
+      "total_value": 113246066.71355402
+    }
+  ],
+  "service_trends": [
+    {
+      "year": 2016,
+      "Digital Marketing": 13230.0,
+      "SEO Services": 0.0,
+      "Software Development": 0.0
+    },
+    {
+      "year": 2017,
+      "Digital Marketing": 432474.03,
+      "SEO Services": 0.0,
+      "Software Development": 23771.9
+    },
+    {
+      "year": 2018,
+      "Digital Marketing": 47595.6,
+      "SEO Services": 0.0,
+      "Software Development": 282321.89
+    },
+    {
+      "year": 2019,
+      "Digital Marketing": 236674.9,
+      "SEO Services": 0.0,
+      "Software Development": 64970.59
+    },
+    {
+      "year": 2020,
+      "Digital Marketing": 30577.8,
+      "SEO Services": 0.0,
+      "Software Development": 777544.09
+    },
+    {
+      "year": 2021,
+      "Digital Marketing": 20097.63,
+      "SEO Services": 0.0,
+      "Software Development": 2311424.09
+    },
+    {
+      "year": 2022,
+      "Digital Marketing": 190433.2,
+      "SEO Services": 36700.246777022585,
+      "Software Development": 8742803.85
+    },
+    {
+      "year": 2023,
+      "Digital Marketing": 413349.2,
+      "SEO Services": 0.0,
+      "Software Development": 8935951.63
+    },
+    {
+      "year": 2024,
+      "Digital Marketing": 57487.5,
+      "SEO Services": 0.0,
+      "Software Development": 8142741.28
+    },
+    {
+      "year": 2025,
+      "Digital Marketing": 0.0,
+      "SEO Services": 0.0,
+      "Software Development": 39245.9
+    }
+  ],
+  "avg_value_by_service": [
+    {
+      "year": 2016,
+      "Digital Marketing": 13230.0,
+      "SEO Services": 0.0,
+      "Software Development": 0.0
+    },
+    {
+      "year": 2017,
+      "Digital Marketing": 30891.002142857145,
+      "SEO Services": 0.0,
+      "Software Development": 23771.9
+    },
+    {
+      "year": 2018,
+      "Digital Marketing": 47595.6,
+      "SEO Services": 0.0,
+      "Software Development": 56464.378000000004
+    },
+    {
+      "year": 2019,
+      "Digital Marketing": 59168.725,
+      "SEO Services": 0.0,
+      "Software Development": 21656.86333333333
+    },
+    {
+      "year": 2020,
+      "Digital Marketing": 30577.8,
+      "SEO Services": 0.0,
+      "Software Development": 27769.431785714285
+    },
+    {
+      "year": 2021,
+      "Digital Marketing": 20097.63,
+      "SEO Services": 0.0,
+      "Software Development": 34498.867014925374
+    },
+    {
+      "year": 2022,
+      "Digital Marketing": 63477.73333333334,
+      "SEO Services": 36700.246777022585,
+      "Software Development": 31336.214516129032
+    },
+    {
+      "year": 2023,
+      "Digital Marketing": 59049.885714285716,
+      "SEO Services": 0.0,
+      "Software Development": 33848.301628787885
+    },
+    {
+      "year": 2024,
+      "Digital Marketing": 57487.5,
+      "SEO Services": 0.0,
+      "Software Development": 34503.14101694915
+    },
+    {
+      "year": 2025,
+      "Digital Marketing": 0.0,
+      "SEO Services": 0.0,
+      "Software Development": 19622.95
+    }
+  ],
+  "solicitation_dist": [
+    {
+      "solicitation_procedure_en": "-",
+      "total_value": 91654.4
+    },
+    {
+      "solicitation_procedure_en": "Advance Contract Award Notice",
+      "total_value": 4857288.22
+    },
+    {
+      "solicitation_procedure_en": "Competitive \u2013 Open Bidding",
+      "total_value": 121788575.86
+    },
+    {
+      "solicitation_procedure_en": "Competitive \u2013 Selective Tendering",
+      "total_value": 103968472.31
+    },
+    {
+      "solicitation_procedure_en": "Competitive \u2013 Traditional",
+      "total_value": 288406336.93355405
+    },
+    {
+      "solicitation_procedure_en": "Non-Competitive",
+      "total_value": 317910200.52
+    }
+  ],
+  "yoy_growth": [
+    {
+      "year": 2016,
+      "count": 267,
+      "total_value": 9288717.27,
+      "count_growth": 1.91,
+      "value_growth": 3.92
+    },
+    {
+      "year": 2017,
+      "count": 187,
+      "total_value": 6123959.7,
+      "count_growth": -29.96,
+      "value_growth": -34.07
+    },
+    {
+      "year": 2018,
+      "count": 179,
+      "total_value": 6675428.79,
+      "count_growth": -4.28,
+      "value_growth": 9.01
+    },
+    {
+      "year": 2019,
+      "count": 239,
+      "total_value": 8982016.57,
+      "count_growth": 33.52,
+      "value_growth": 34.55
+    },
+    {
+      "year": 2020,
+      "count": 904,
+      "total_value": 35161851.17,
+      "count_growth": 278.24,
+      "value_growth": 291.47
+    },
+    {
+      "year": 2021,
+      "count": 2776,
+      "total_value": 97883412.23,
+      "count_growth": 207.08,
+      "value_growth": 178.38
+    },
+    {
+      "year": 2022,
+      "count": 6443,
+      "total_value": 238641874.39355403,
+      "count_growth": 132.1,
+      "value_growth": 143.8
+    },
+    {
+      "year": 2023,
+      "count": 5959,
+      "total_value": 223049618.58,
+      "count_growth": -7.51,
+      "value_growth": -6.53
+    },
+    {
+      "year": 2024,
+      "count": 5585,
+      "total_value": 202170436.51,
+      "count_growth": -6.28,
+      "value_growth": -9.36
+    },
+    {
+      "year": 2025,
+      "count": 6,
+      "total_value": 106676.72,
+      "count_growth": -99.89,
+      "value_growth": -99.95
+    }
+  ],
+  "competitive_share": 99.40874439420583,
+  "total_contracts": 13160,
+  "total_value": 837022528.243554,
+  "top_dept": "Unknown",
+  "top_dept_value": 447410597.54355407,
+  "top_service": "Consulting Services",
+  "top_service_growth": -95.08225874254357,
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "service_categories": [
+    "Business Consulting",
+    "Cloud Security",
+    "Cloud Services",
+    "Communication Services",
+    "Computer Services",
+    "Consulting Services",
+    "Data Analysis",
+    "Digital Marketing",
+    "Engineering",
+    "IT Consulting",
+    "License Maintenance Fees",
+    "Networking Software",
+    "Other",
+    "SEO Services",
+    "Software Development",
+    "Web Development"
+  ],
+  "departments": [
+    "Accessibility Standards Canada",
+    "Administrative Tribunals Support Service of Canada",
+    "Agriculture and Agri-Food Canada",
+    "Atlantic Canada Opportunities Agency",
+    "Canada Border Services Agency",
+    "Canada Economic Development for Quebec Regions",
+    "Canada Energy Regulator",
+    "Canada Revenue Agency",
+    "Canada School of Public Service",
+    "Canadian Centre for Occupational Health and Safety",
+    "Canadian Food Inspection Agency",
+    "Canadian Grain Commission",
+    "Canadian Heritage",
+    "Canadian Human Rights Commission",
+    "Canadian Institutes of Health Research",
+    "Canadian Intergovernmental Conference Secretariat",
+    "Canadian Nuclear Safety Commission",
+    "Canadian Radio-television and Telecommunications Commission",
+    "Canadian Space Agency",
+    "Canadian Transportation Agency",
+    "Civilian Review and Complaints Commission for the RCMP",
+    "Correctional Service of Canada",
+    "Courts Administration Service",
+    "Crown-Indigenous Relations and Northern Affairs Canada",
+    "Department of Finance Canada",
+    "Department of Housing, Infrastructure and Communities",
+    "Department of Justice Canada",
+    "Elections Canada",
+    "Employment and Social Development Canada",
+    "Environment and Climate Change Canada",
+    "Federal Economic Development Agency for Northern Ontario",
+    "Federal Economic Development Agency for Southern Ontario",
+    "Financial Consumer Agency of Canada",
+    "Financial Transactions and Reports Analysis Centre of Canada",
+    "Fisheries and Oceans Canada",
+    "Global Affairs Canada",
+    "Health Canada",
+    "Immigration and Refugee Board of Canada",
+    "Immigration, Refugees and Citizenship Canada",
+    "Impact Assessment Agency of Canada",
+    "Indigenous Services Canada",
+    "Innovation, Science and Economic Development Canada",
+    "International Joint Commission",
+    "Invest in Canada",
+    "Law Commission of Canada",
+    "Library and Archives Canada",
+    "Military Grievances External Review Committee",
+    "Military Police Complaints Commission of Canada",
+    "National Defence",
+    "National Film Board",
+    "National Gallery of Canada",
+    "National Research Council Canada",
+    "National Security and Intelligence Review Agency",
+    "Natural Resources Canada",
+    "Natural Sciences and Engineering Research Council of Canada",
+    "Office of the Auditor General of Canada",
+    "Office of the Commissioner for Federal Judicial Affairs Canada",
+    "Office of the Commissioner of Lobbying of Canada",
+    "Office of the Commissioner of Official Languages",
+    "Office of the Information Commissioner of Canada",
+    "Office of the Privacy Commissioner of Canada",
+    "Office of the Public Sector Integrity Commissioner of Canada",
+    "Office of the Secretary to the Governor General",
+    "Office of the Superintendent of Financial Institutions Canada",
+    "Pacific Economic Development Canada",
+    "Parks Canada",
+    "Parole Board of Canada",
+    "Patented Medicine Prices Review Board Canada",
+    "Polar Knowledge Canada",
+    "Prairies Economic Development Canada",
+    "Privy Council Office",
+    "Public Health Agency of Canada",
+    "Public Prosecution Service of Canada",
+    "Public Safety Canada",
+    "Public Service Commission of Canada",
+    "Public Services and Procurement Canada",
+    "Royal Canadian Mounted Police",
+    "Shared Services Canada",
+    "Social Sciences and Humanities Research Council of Canada",
+    "Statistics Canada",
+    "Status of Women Canada",
+    "The Correctional Investigator Canada",
+    "The National Battlefields Commission",
+    "Transport Canada",
+    "Transportation Safety Board of Canada",
+    "Treasury Board of Canada Secretariat",
+    "Unknown",
+    "Veterans Affairs Canada",
+    "Women and Gender Equality Canada"
+  ],
+  "price_ranges": [
+    {
+      "service": "SEO Services",
+      "predicted_value": 32091.51953125,
+      "lower_bound": 28591.23046875,
+      "upper_bound": 35591.80859375
+    },
+    {
+      "service": "Software Development",
+      "predicted_value": 52044.671875,
+      "lower_bound": 48544.37890625,
+      "upper_bound": 55544.9609375
+    },
+    {
+      "service": "Digital Marketing",
+      "predicted_value": 8501.8203125,
+      "lower_bound": 5001.52978515625,
+      "upper_bound": 12002.1103515625
+    },
+    {
+      "service": "Web Development",
+      "predicted_value": 39529.05859375,
+      "lower_bound": 36028.76953125,
+      "upper_bound": 43029.3515625
+    }
+  ],
+  "research_findings": {
+    "seo_cost": {
+      "low": 120000,
+      "high": 240000
+    },
+    "software_dev_cost": {
+      "low": 200000,
+      "high": 1000000
+    },
+    "digital_marketing_cost": {
+      "low": 120000,
+      "high": 420000
+    },
+    "trends": [
+      "Increased use of e-procurement systems like BidNet Direct and Find RFP for streamlined bidding.",
+      "Focus on small and local businesses, with 94% of SEO agencies serving such clients in 2024.",
+      "Adoption of AI technologies, with 61% of agencies planning AIO optimization at $937/month.",
+      "Use of closed RFPs for specialized digital projects to reduce vendor pool.",
+      "Emphasis on compliance and transparency under FAR regulations."
+    ],
+    "bid_vs_industry": [
+      {
+        "service": "SEO Services",
+        "gov_avg": 180000,
+        "industry_avg_low": 18000,
+        "industry_avg_high": 60000
+      },
+      {
+        "service": "Software Development",
+        "gov_avg": 600000,
+        "industry_avg_low": 50000,
+        "industry_avg_high": 500000
+      },
+      {
+        "service": "Digital Marketing",
+        "gov_avg": 270000,
+        "industry_avg_low": 12000,
+        "industry_avg_high": 120000
+      }
+    ],
+    "rfp_price_ranges": [
+      {
+        "service": "SEO Services",
+        "small_scope": "60,000-120,000/year",
+        "large_scope": "180,000-360,000/year"
+      },
+      {
+        "service": "Software Development",
+        "small_scope": "100,000-300,000/year",
+        "large_scope": "1,000,000-5,000,000+/year"
+      },
+      {
+        "service": "Digital Marketing",
+        "small_scope": "60,000-180,000/year",
+        "large_scope": "240,000-600,000/year"
+      }
+    ]
+  }
+}

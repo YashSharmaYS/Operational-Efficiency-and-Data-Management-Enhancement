@@ -1,0 +1,26 @@
+[
+  {
+    "service": "SEO Services",
+    "predicted_value": 32091.51953125,
+    "lower_bound": 28591.23046875,
+    "upper_bound": 35591.80859375
+  },
+  {
+    "service": "Software Development",
+    "predicted_value": 52044.671875,
+    "lower_bound": 48544.37890625,
+    "upper_bound": 55544.9609375
+  },
+  {
+    "service": "Digital Marketing",
+    "predicted_value": 8501.8203125,
+    "lower_bound": 5001.52978515625,
+    "upper_bound": 12002.1103515625
+  },
+  {
+    "service": "Web Development",
+    "predicted_value": 39529.05859375,
+    "lower_bound": 36028.76953125,
+    "upper_bound": 43029.3515625
+  }
+]
